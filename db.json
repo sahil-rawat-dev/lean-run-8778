@@ -1,0 +1,15 @@
+{
+  "usersInfo": [
+    {
+      "fullName": "Sahil Rawat",
+      "email": "sahilrawat49200@gmail.com",
+      "confirmEmail": "sahilrawat49200@gmail.com",
+      "password": "Sahil@123",
+      "confirmPassword": "Sahil@123",
+      "mobile": "8218805033",
+      "referralCode": "",
+      "reward": true,
+      "id": 1
+    }
+  ]
+}
